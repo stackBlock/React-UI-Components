@@ -1,0 +1,37 @@
+.square-container {
+  height: 50px;
+  display: flex;
+}
+.square {
+  width: 50px;
+  border: 1px solid #e3e3e3;
+}
+.border {
+  width: 50px;
+}
+
+.border-side {
+  background: black;
+  color: white;
+  text-align: center;
+  line-height: 50px;
+  font-size: 25px;
+  font-weight: 200;
+}
+
+.black-square {
+  background: black;
+  color: white;
+  text-align: center;
+  line-height: 50px;
+  font-size: 25px;
+  font-weight: 200;
+}
+
+.white-square {
+  background: white;
+  text-align: center;
+  line-height: 50px;
+  font-size: 25px;
+  font-weight: 200;
+}
