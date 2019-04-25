@@ -1,1 +1,27 @@
 /* All styles for your Card Components live here */
+
+
+.banner {
+    max-width: 625px;
+    padding-left: 75px;
+}
+
+.cardContent {
+    padding-left: 95px;
+    padding-right: 30px;
+}
+
+.cardContainer {
+    max-width: 700px;
+   
+}
+
+.reguler {
+    font-weight: 300;
+    max-width: 650px;
+}
+
+.light {
+    font-weight: 100;
+    color: gray;
+}
